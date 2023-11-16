@@ -1,0 +1,272 @@
+.img1{
+    height: 3.8rem;
+    border-radius: 10%;
+    box-shadow: 2px 2px 3px rgb(84, 226, 138);
+
+}
+.nav-item{
+    font-size: 1.7rem;
+    font-family: open sans;
+    box-shadow: 5px 5px 5px rgb(226, 84, 84);
+}
+.btn {
+    font-size: 2.5rem;
+    font-family: open sans;
+    box-shadow: 5px 5px 5px rgb(226, 84, 84);
+}
+.btn:hover{
+    box-shadow: 5px 5px 5px rgb(84, 226, 138);
+
+}
+.nav-item:hover{
+    box-shadow: 5px 5px 5px rgb(84, 226, 138);
+
+}
+.navbar{
+    color: black;
+    width: auto;
+    box-shadow: 8px 5px 8px 8px rgb(221, 221, 220);
+    position: sticky;
+
+}
+.navbar-brand{
+    margin-left: 3rem;
+    box-shadow: 2rem;
+    border-radius: 80%;
+
+    
+}
+.navbar-nav{
+    margin-left: 9rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: auto;
+}
+.nav-link {
+    width: 12rem;
+    font-style: 2.9rem;
+    color: black;
+}
+a{
+    color: black;
+}
+.navbar-toggler-icon{
+    color: aqua;
+}
+.slogn1{
+    padding-top: 6rem;
+
+}
+.main1{
+    width: auto;
+    height: 400px;
+    background-color: rgb(255, 67, 53);
+
+}
+ 
+.sp1{
+    color: black;
+    font-style: italic;
+    font-stretch: normal;
+    gap: 12px;
+    font-weight: 600;
+}
+.bi{
+    font-size: 2rem;
+    margin-left: 1rem;
+    color: white;
+ 
+
+}
+
+p{
+    margin-left: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: cenetr;
+    overflow: hidden;
+    margin: 2rem;
+    font-size: medium;
+}
+.main2 {
+  
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+    width: max-content;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
+
+/* birthday section starts */
+
+#birthday{
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.bc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1rem;
+    color: white;
+}
+.bc1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1rem;
+    color: rgb(255, 0, 0);
+}
+.vbc1{
+  gap: 2rem;
+  padding-top: 1.3rem;
+}
+/* anniversary sections starts  */
+#Anniversary{
+    height: max-content;
+    background-color: rgb(255, 1, 1);
+    color: black;
+}
+/* baby shower section start  */
+#BabyShower{
+    height: max-content;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+/* engagement section starts  */
+#engagement{
+    height: max-content;
+    background-color: rgb(255, 32, 2);
+    color: black;
+}
+
+/* location section starts  */
+
+#location{
+    height: max-content;
+    background-color: rgb(255, 255, 255);
+    color: black;
+   
+
+}
+.lc1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#location{
+      height: max-content;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#contact{
+    height: max-content;
+    background-color: rgb(255, 32, 2);
+  color: black;
+}
+@media only screen and (max-width:1480px){
+
+ .navbar-nav{
+    margin-left: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: auto;
+}  
+
+.nav-link {
+    width: 10rem;
+    font-style: 2.9rem;
+    color: black;
+} 
+
+
+}
+@media only screen and (max-width:1188px){
+
+    .navbar-nav{
+       margin-left: 0rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }
+   
+   .nav-link {
+    width: 2rem;
+    font-style: 2.9rem;
+    color: black;
+}   
+   }
+   @media only screen and (max-width:1365px){
+
+    .navbar-nav{
+       margin-left: 0rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }
+   .nav-link {
+    width: 9rem;
+    font-style: 2.9rem;
+    color: black;
+}   
+   }
+   @media only screen and (max-width:768px){
+
+    .navbar-nav{
+       margin-left: 1rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }   
+   }
+   @media only screen and (max-width:460px){
+
+    .navbar-nav{
+       margin-left: 1rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }   
+   .main1{
+    width: auto;
+    height: 800px;
+    background-color: rgb(255, 67, 53);
+
+}
+   }
+
+   @media only screen and (max-width:700px){
+
+    .navbar-nav{
+       margin-left: 1rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }   
+   .main1{
+    width: auto;
+    height: 800px;
+    background-color: rgb(255, 67, 53);
+
+}
+   }
