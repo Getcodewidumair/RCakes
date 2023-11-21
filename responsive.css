@@ -1,0 +1,204 @@
+/* responsive css starts  */
+ /* responsive code for smart phones  */
+ @media only screen and (max-width: 480px) {
+    .navbar-nav{
+        margin-left: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+        width: auto;
+    }
+    .nav-link {
+        width: 10rem;
+        font-size: 2.9rem;
+    } 
+    
+    
+}
+ /* responsive code for laptops phones  */
+
+ @media only screen and (max-width: 768px) {
+    .navbar-nav{
+        margin-left: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+        width: auto;
+    }
+    .bc1{
+        margin-top: 9rem;
+    }
+    #birthday{
+        margin-top: 3rem;
+    }
+    .nav-link {
+        width: 10rem;
+        font-size: 2.9rem;
+        color: black;
+    } 
+ }
+
+ /* responsive code for laptops  */
+
+ @media only screen and (max-width: 1056px) {
+    .navbar-nav{
+        margin-left: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+        width: auto;
+    }
+    .navbar-brand{
+        margin-left: 0rem;
+    }
+    
+    .bc1{
+        margin-top: 9rem;
+    }
+    #birthday{
+        margin-top: 3rem;
+    }
+    .navbar{
+        width:auto;
+    }
+
+    
+     .nav-link {
+        width: 1rem;
+        font-size: 1.9rem;
+    } 
+ }
+ @media only screen and (max-width: 1000px) {
+    .navbar{
+        width:auto;
+        margin: 2rem;
+    }
+
+ }
+
+
+@media only screen and (max-width:1480px){
+
+ .navbar-nav{
+    margin-left: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: auto;
+}  
+
+.nav-link {
+    width: 10rem;
+    font-size: 2.9rem;
+    color: black;
+} 
+
+
+}
+
+@media only screen and (max-width:1060px){
+.navbar-brand{
+    height: min-content;
+    
+}
+    .navbar-nav{
+       margin-left: 1rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 0.5rem;
+       width: 10rem;
+   }
+   .nav-link {
+    width: 8rem;
+    font-size: 1.9rem;
+
+     color: black;
+} 
+.nav-item{
+    width: auto;
+}
+}
+@media only screen and (max-width:1188px){
+
+    .navbar-nav{
+       margin-left: 0rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }
+   
+   .nav-link {
+    width: 2rem;
+    font-style: 2.9rem;
+    color: black;
+}   
+   }
+   @media only screen and (max-width:1365px){
+
+    .navbar-nav{
+       margin-left: 0rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }
+   .nav-link {
+    width: 9rem;
+    font-style: 2.9rem;
+    color: black;
+}   
+   }
+   @media only screen and (max-width:768px){
+
+    .navbar-nav{
+       margin-left: 1rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }   
+   }
+   @media only screen and (max-width:460px){
+
+    .navbar-nav{
+       margin-left: 1rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }   
+   .main1{
+    width: auto;
+    height: 800px;
+    background-color: rgb(255, 67, 53);
+
+}
+   }
+
+   @media only screen and (max-width:700px){
+
+    .navbar-nav{
+       margin-left: 1rem;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap: 2rem;
+       width: auto;
+   }   
+   .main1{
+    width: auto;
+    height: 800px;
+    background-color: rgb(255, 67, 53);
+
+}
+   }
