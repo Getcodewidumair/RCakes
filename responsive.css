@@ -10,7 +10,7 @@
         width: auto;
     }
   .imgbdy{
-    width:1rem;
+    width:min-content;
     height:auto;
  }
     .nav-link {
