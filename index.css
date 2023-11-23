@@ -5,7 +5,7 @@
 
 }
 .bdyimg{
-    width: auto;
+    width: min-content;
 }
 .nav-item{
     font-size: 1.7rem;
