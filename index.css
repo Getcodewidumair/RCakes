@@ -11,6 +11,9 @@ imgbdy{
     width:auto;
     height:auto;
  }
+.bi-star{
+color:yellow;
+}
 .nav-item{
     font-size: 1.7rem;
     font-family: open sans;
