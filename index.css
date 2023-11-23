@@ -4,7 +4,11 @@
     box-shadow: 2px 2px 3px rgb(84, 226, 138);
 
 }
- 
+ .
+imgbdy{
+    width:auto;
+    height:auto;
+ }
 .nav-item{
     font-size: 1.7rem;
     font-family: open sans;
