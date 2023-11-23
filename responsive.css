@@ -9,6 +9,10 @@
         gap: 2rem;
         width: auto;
     }
+  imgbdy{
+    width:1rem;
+    height:auto;
+ }
     .nav-link {
         width: 10rem;
         font-size: 2.9rem;
