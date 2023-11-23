@@ -42,7 +42,12 @@
         font-size: 2.9rem;
         color: black;
     } 
+      .imgbdy{
+    width: auto;
+    height:auto;
  }
+ }
+
 
  /* responsive code for laptops  */
 
@@ -74,14 +79,23 @@
         width: 1rem;
         font-size: 1.9rem;
     } 
+     .imgbdy{
+    width: auto;
+    height:auto;
  }
+ }
+ 
  @media only screen and (max-width: 1000px) {
     .navbar{
         width:auto;
         margin: 2rem;
     }
-
+  .imgbdy{
+    width: auto;
+    height:auto;
  }
+ }
+  
 
 
 @media only screen and (max-width:1480px){
@@ -94,7 +108,10 @@
     gap: 2rem;
     width: auto;
 }  
-
+    .imgbdy{
+    width: auto;
+    height:auto;
+ }
 .nav-link {
     width: 10rem;
     font-size: 2.9rem;
@@ -123,6 +140,10 @@
 
      color: black;
 } 
+     .imgbdy{
+    width: auto;
+    height:auto;
+ }
 .nav-item{
     width: auto;
 }
@@ -137,7 +158,10 @@
        gap: 2rem;
        width: auto;
    }
-   
+       .imgbdy{
+    width: auto;
+    height:auto;
+ }
    .nav-link {
     width: 2rem;
     font-style: 2.9rem;
@@ -154,6 +178,10 @@
        gap: 2rem;
        width: auto;
    }
+        .imgbdy{
+    width: auto;
+    height:auto;
+ }
    .nav-link {
     width: 9rem;
     font-style: 2.9rem;
@@ -170,6 +198,10 @@
        gap: 2rem;
        width: auto;
    }   
+        .imgbdy{
+    width: auto;
+    height:auto;
+ }
    }
    @media only screen and (max-width:460px){
 
@@ -181,6 +213,10 @@
        gap: 2rem;
        width: auto;
    }   
+        .imgbdy{
+    width: auto;
+    height:auto;
+ }
    .main1{
     width: auto;
     height: 800px;
@@ -199,6 +235,10 @@
        gap: 2rem;
        width: auto;
    }   
+      .imgbdy{
+    width: auto;
+    height:auto;
+ }
    .main1{
     width: auto;
     height: 800px;
