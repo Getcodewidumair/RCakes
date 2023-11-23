@@ -10,9 +10,10 @@
         width: auto;
     }
   .imgbdy{
-   margin-top:2rem;
-   paddng-top:3rem;
+   margin-top:6rem;
+   paddng-top:6rem;
      height:15rem;
+   margin-bottom:0px;
  }
     .nav-link {
         width: 10rem;
